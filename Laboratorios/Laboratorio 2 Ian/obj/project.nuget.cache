@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wxg8hJlMfR26A0O9s5UERTHkxSj9G3VWNMVN/DxLSX/ApFY12q9J8JMijCxjGsCZP70fw1+xML9Bv796PZ8cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ian Calvo\\Desktop\\Lenguajes\\Laboratorio 2 Ian\\Laboratorio 2 Ian.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ian Calvo\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
