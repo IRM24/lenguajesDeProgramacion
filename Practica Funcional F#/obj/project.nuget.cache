@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IsFbwohBuxjzJ4+Fy7FuTt2hEprofDlka8/U4TDNyTlgJjMcvPlMqkTcEQDqu8vFAzf7CEvbyUBCvclCjN/CZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ian Calvo\\Desktop\\lenguajesDeProgramacion\\Practica Funcional F#\\ERBuena.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ian Calvo\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

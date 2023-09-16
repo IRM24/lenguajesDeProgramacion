@@ -1,0 +1,58 @@
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ERBuena.exe
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ERBuena.deps.json
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ERBuena.runtimeconfig.json
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ERBuena.pdb
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.fsproj.AssemblyReference.cache
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.AssemblyInfoInputs.cache
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.AssemblyInfo.fs
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.fsproj.CoreCompileInputs.cache
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.fsproj.CopyComplete
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\refint\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.pdb
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ERBuena.genruntimeconfig.cache
+C:\Users\Ian Calvo\Desktop\Lenguajes\ERBuena\obj\Debug\net7.0\ref\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ERBuena.exe
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ERBuena.deps.json
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ERBuena.runtimeconfig.json
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ERBuena.pdb
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.fsproj.AssemblyReference.cache
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.AssemblyInfoInputs.cache
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.AssemblyInfo.fs
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.fsproj.CoreCompileInputs.cache
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.fsproj.CopyComplete
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\refint\ERBuena.dll
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.pdb
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ERBuena.genruntimeconfig.cache
+C:\Users\Ian Calvo\Desktop\lenguajesDeProgramacion\Practica Funcional F#\obj\Debug\net7.0\ref\ERBuena.dll
