@@ -1,9 +1,9 @@
 :- use_module(library(strings)).
 
-sumlist([], 0).     % La suma de una lista vac�a es 0.
+sumlist([], 0).     
 sumlist([X|Resto], S) :-
-    sumlist(Resto, SResto),  % Suma de los elementos del resto de la lista.
-    S is X + SResto.        % S es la suma del primer elemento y SResto.
+    sumlist(Resto, SResto),  
+    S is X + SResto.        
 
 
 subconj(_,[]).
