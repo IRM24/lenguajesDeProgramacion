@@ -2,6 +2,8 @@ package com.mycompany.planificadorsingelton;
 
 public class PatronDiseno {
 
+    
+    
     public static void main(String[] args) {
         PlanificadorS miPlanificador = PlanificadorS.getInstance();
         Factory factory = new FactoryBuild();
