@@ -34,7 +34,7 @@ public class SistemaBiblioteca {
         libros.add(libro6);
         libros.add(libro7);
         
-        // Ejemplos de clientes tomando libros prestados y su devolución
+        
         System.out.println("Ejemplos de tomar prestado y devolver libros");
         cliente1.tomarPrestado(libro3);
         cliente2.tomarPrestado(libro7);
@@ -47,7 +47,7 @@ public class SistemaBiblioteca {
         cliente1.devolver(libro3);
         cliente2.devolver(libro7);
             
-        // Ejemplo para mostrar el estado de todos los libros
+        
         System.out.println("\nEstado de los libros en la biblioteca:");
         mostrarEstadoLibros(libros);
 

@@ -40,7 +40,6 @@ public class Libro {
     }
 
     public static void mostrarEstadoLibros(LinkedList<Libro> libros) {
-    // Crear una cadena para almacenar el estado de los libros
     StringBuilder estadoLibros = new StringBuilder("Estado de los libros en la biblioteca:\n");
 
     for (Libro libro : libros) {
@@ -48,7 +47,6 @@ public class Libro {
         estadoLibros.append("Libro: ").append(libro.getTitulo()).append(" - Estado: ").append(disponibilidad).append(" ").append("autor: ").append(libro.autor()).append("\n");
     }
 
-    // Imprimir el estado de los libros
     System.out.println(estadoLibros.toString());
 }
     }

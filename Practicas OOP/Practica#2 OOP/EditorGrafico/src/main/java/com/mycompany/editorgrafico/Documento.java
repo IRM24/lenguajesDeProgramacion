@@ -7,7 +7,7 @@ public class Documento {
     private List<Hoja> hojas;
 
     public Documento() {
-        this.hojas = new LinkedList<>(); // Cambio aquí
+        this.hojas = new LinkedList<>(); 
     }
 
     public void anadir(Hoja hoja) {

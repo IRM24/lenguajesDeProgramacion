@@ -2,6 +2,15 @@ package com.mycompany.planificadorsingelton;
 
 public class PatronDiseno {
 
+    /*
+    PlanificadorS utiliza el enfoque de Lazy Initialization para crear la instancia 
+    del planificador. La solicitud de instancia ocurre cuando se llama a getInstance(), y si no se ha creado una instancia previamente, 
+    se crea y se devuelve esa instancia. Esta técnica retrasa la creación de la instancia hasta que sea requerida, optimizando el uso de recursos.
+    Esta implementación sugiere que se crea la instancia del planificador solo cuando sea necesario.
+    Lazy Singleton evita la inicialización temprana y conservar recursos.
+    Siendo una aplicación de planificación donde los recursos pueden ser dinámicos y se accede a la instancia del planificador en 
+    diferentes momentos del programa, el enfoque Lazy Singleton en este contexto es más eficiente.
+    */
     
     
     public static void main(String[] args) {
@@ -25,7 +34,7 @@ public class PatronDiseno {
         System.out.println("Agenda");
         System.out.println(miPlanificador);
 
-        // Modificar elementos
+
         PersonaS nuevoContactoPersonal = factory.crearContacto("María Fernández", "San José, Costa Rica", "personal", "Hermana");
         miPlanificador.actualizarElemento(0, nuevoContactoPersonal);
 
@@ -34,7 +43,7 @@ public class PatronDiseno {
         ActividadS nuevoEventoEmpresarial = factory.crearEvento("Conferencia de Ventas", "5/23/2022", "empresarial", "Hotel Marriott");
         miPlanificador.añadirElemento(nuevoEventoEmpresarial);
 
-        // Mostrar el planificador modificado
+
         System.out.println("Agenda Modificada");
         System.out.println(miPlanificador);
     }
