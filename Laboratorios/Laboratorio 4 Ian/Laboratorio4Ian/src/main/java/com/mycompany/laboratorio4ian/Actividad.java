@@ -30,8 +30,9 @@ public abstract class Actividad implements Obj {
         return "Título de la actividad: " + tituloActividad + ", Fecha: " + fechaActividad;
     }
     
-    @Override
+      @Override
     public String toString() {
         return "Título de la actividad: " + tituloActividad + ", Fecha: " + fechaActividad;
     }
+    
 }

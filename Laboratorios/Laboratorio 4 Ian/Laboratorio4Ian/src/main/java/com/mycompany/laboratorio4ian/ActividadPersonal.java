@@ -23,17 +23,4 @@ public class ActividadPersonal extends Actividad {
         return super.toString() + ", Detalles: " + detalles;
     }
     
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        if (!super.equals(o)) return false;
-        ActividadPersonal that = (ActividadPersonal) o;
-        return Objects.equals(detalles, that.detalles);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(super.hashCode(), detalles);
-    }
 }
